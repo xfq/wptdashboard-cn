@@ -31,7 +31,7 @@
 
 - `sha[0:10]`: WPT commit hash的前10个字符
 - `platform_id`: `webapp/browsers.json` 中的键，包含浏览器和运行平台
-- `test_file_path`: the full WPT path of the test file
+- `test_file_path`: 测试文件在 web-platform-tests 目录里的路径
 
 样例：[b12daf6ead/safari-10-macos-10.12-sauce/IndexedDB/abort-in-initial-upgradeneeded.html](https://storage.googleapis.com/wptd/b12daf6ead/safari-10-macos-10.12-sauce/IndexedDB/abort-in-initial-upgradeneeded.html)
 
