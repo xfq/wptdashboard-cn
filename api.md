@@ -20,7 +20,7 @@ __`result_file`__: `wpt run --log-wptreport` 生成的 gzipped JSON 文件。
 
 __`labels`__: （可选）一个字符串，内容以逗号分隔，包含此测试运行的相关标签。目前支持的标签有“experimental”和“stable”（被测试的浏览器的版本）。
 
-JSON文件大致如下所示：
+JSON 文件大致如下所示：
 
 ```json
 {
