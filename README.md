@@ -1,6 +1,6 @@
 # web-platform-tests dashboard for Chinese browsers
 
-运行 [web-platform-tests](https://github.com/w3c/web-platform-tests) 的测试结果。
+运行 [web-platform-tests](https://github.com/web-platform-tests/wpt) 的测试结果。
 
 ## 包含的数据
 
@@ -53,4 +53,4 @@
 
 ## 感谢
 
-* [wptdashboard](https://github.com/w3c/wptdashboard/)
+* [wpt.fyi](https://github.com/web-platform-tests/wpt.fyi)
