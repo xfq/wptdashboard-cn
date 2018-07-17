@@ -260,9 +260,9 @@ __参数__
 
 TODO
 
-项目 license
+项目许可证
 ===================
 
-WPT项目遵循  [W3C Test Suite License 和 W3C 3-clause BSD License](https://github.com/web-platform-tests/wpt/blob/master/LICENSE.md)
+WPT 项目遵循  [W3C Test Suite License 和 W3C 3-clause BSD License](https://github.com/web-platform-tests/wpt/blob/master/LICENSE.md)
 
-wpt.fyi项目 遵循 [W3C 3-clause BSD License](https://github.com/web-platform-tests/wpt.fyi/blob/master/LICENSE)
+wpt.fyi 项目 遵循 [W3C 3-clause BSD License](https://github.com/web-platform-tests/wpt.fyi/blob/master/LICENSE)
