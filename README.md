@@ -208,7 +208,7 @@ webserver 运行时, 你需要往 app datastore 添加一些初始数据. 请在
 }
 ```
 
-## 如何在公布板注册
+## 如何在公布板注册/上传结果
 
 最新版请参看原文：https://github.com/web-platform-tests/wpt.fyi/blob/master/api/README.md
 
